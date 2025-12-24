@@ -43,12 +43,12 @@ yarn build
 yarn lint
 ```
 # 2024_12_24_vue3Project
-<img width="1170" height="2532" alt="localhost_5173_(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/05d37c1b-2cc6-400b-bb21-b1447303800d" />
-<img width="1170" height="2532" alt="localhost_5173_(iPhone 12 Pro) (5)" src="https://github.com/user-attachments/assets/7ec0f5d9-1f3f-41bb-8d5a-921536420bc4" />
-<img width="1170" height="2532" alt="localhost_5173_(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/c1865d82-9998-4aca-8445-bfccd9df5593" />
-<img width="1170" height="2532" alt="localhost_5173_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/5de57f2e-52e1-417c-b22c-841fb0b630ce" />
-<img width="1170" height="2532" alt="localhost_5173_(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/eb871262-1ea6-4cf9-b0f5-396e0a1890e5" />
-<img width="1170" height="2532" alt="localhost_5173_(iPhone 12 Pro) (6)" src="https://github.com/user-attachments/assets/c56743dc-1724-46e6-8072-828d13a6e1bd" />
+<img width="390" height="844" alt="localhost_5173_(iPhone 12 Pro)" src="https://github.com/user-attachments/assets/05d37c1b-2cc6-400b-bb21-b1447303800d" />
+<img width="390" height="844" alt="localhost_5173_(iPhone 12 Pro) (5)" src="https://github.com/user-attachments/assets/7ec0f5d9-1f3f-41bb-8d5a-921536420bc4" />
+<img width="390" height="844" alt="localhost_5173_(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/c1865d82-9998-4aca-8445-bfccd9df5593" />
+<img width="390" height="844" alt="localhost_5173_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/5de57f2e-52e1-417c-b22c-841fb0b630ce" />
+<img width="390" height="844" alt="localhost_5173_(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/eb871262-1ea6-4cf9-b0f5-396e0a1890e5" />
+<img width="390" height="844" alt="localhost_5173_(iPhone 12 Pro) (6)" src="https://github.com/user-attachments/assets/c56743dc-1724-46e6-8072-828d13a6e1bd" />
 
 
 
